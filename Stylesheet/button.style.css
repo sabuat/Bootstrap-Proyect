@@ -1,0 +1,9 @@
+.set {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color:white;
+    --bs-btn-bg: #000;
+    --bs-btn-border-color: #fff;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: var(--py-color);
+    --bs-btn-hover-border-color: #000;
+  }

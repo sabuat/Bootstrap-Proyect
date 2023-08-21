@@ -1,5 +1,5 @@
 .bg-template {
-    background-color: #cdd0db;
+    background-color: var(--py-color);
 }
 
 .p-adjusted {
